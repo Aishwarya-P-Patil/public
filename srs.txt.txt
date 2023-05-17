@@ -1,0 +1,59 @@
+2.Online project management system
+
+Functional Requirements of Final Year Project Management System
+
+Profiles
+Profile module enables supervisors to create profiles that will aid students in supervisor selection. Students can see the profile of supervisors and can send requests to them.
+Supervisors can respond to students’ requests according to their available slots.
+
+Feedback
+Feedback modules enable supervisors to give feedback to students on their evaluated project module. 
+This feature not only saves the time of students and supervisors but also helps 
+students to keep track of their performance.
+
+Notifications
+This module has real-time push notification features.
+Supervisors can use these features for sending meeting schedules to students in real-time.
+Students can receive the meeting schedule at the same time it was generated. 
+These features can help students to attend meetings right on time also students can get updates directly from supervisors.
+
+Software Requirements Specification (SRS) documents are essential for defining the scope and functionality of software projects. Here is an example of an SRS document for an online
+ project management system:
+
+Introduction
+The online project management system is a web-based application designed to help project managers and teams manage projects more efficiently. 
+
+User Requirements
+The system will have the following user types:
+
+Project Manager: A user who creates and manages projects, assigns tasks, and tracks progress.
+Team Member: A user who is assigned tasks and updates progress.
+
+2.1 Functional Requirements
+The system will have the following features:
+
+Project creation: A project manager can create a new project and set its name, description, start date, and end date.
+Task assignment: A project manager can assign tasks to team members and set their deadlines.
+Task tracking: Team members can update the progress of their assigned tasks, and project managers can view the progress of all tasks.
+Communication: The system will provide a messaging system for project managers and team members to communicate about the project.
+Reporting: The system will generate reports that show project progress, task completion, and other relevant metrics.
+
+
+These are just examples of tables that might be used in an online project management system, and there may be additional tables or fields depending on the specific requirements of the system.
+
+In the context of an online project management system, the business entity could be a company or organization that provides the online platform for managing and collaborating
+ on projects. Here are some possible business entities involved in an online project management system:
+
+Project Management Software Company: This is the main business entity that owns and operates the online project management platform. 
+
+Project Managers: These are the individuals responsible for planning, executing, and closing projects using the online project management system. 
+
+Team Members: These are the individuals who are assigned tasks and work on projects using the online project management system. 
+
+Clients: These are the individuals or organizations for whom the projects are being completed. 
+
+
+Administrators: These are the individuals who manage the user accounts and settings for the online project management system. 
+
+These are just some examples of the business entities that could be involved in an online project management system, and there may be additional entities depending on the specific system
+ and industry.
